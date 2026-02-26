@@ -38,7 +38,7 @@
 * **API DOC:** [apidoc](https://apidoc.kacd.kz/)
 * **Карьера:** [vacancies](https://kcsd.kz/about/vacancies)
 * **Сайт:** [kcsd.kz](https://www.kcsd.kz)
-* **LinkedIn:** [KCSD на LinkedIn](#)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/company/central-securities-depository-kcsd/)
 
 ---
 *KCSD Labs — Building the future of digital finance.*
